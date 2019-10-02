@@ -1,9 +1,11 @@
 #include <iostream>
 using namespace std;
+
 int main() {
-    cout<<"index"<<"\t"<<"Value"<<"\t Men adress";
-    int A[7]={3,45,21,8,2,6,7};
-    for (int i=0;i<7;i++){
-        cout<<i<<"\t"<<A[i]<<"\t"<<&A[i]<<endl;}
+    cout << "index" <<"\t" << "Value"<< "\t Mem address" <<endl ;
+    int A[7] = {3, 45, 21, 8, 2, 6, 7};
+    for(int i=0; i < 7 ; i++){
+        cout<< i << "\t" << A[i] <<"\t"<<&A[i] <<endl;
+    }
     return 0;
 }

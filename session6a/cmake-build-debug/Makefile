@@ -38,10 +38,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = "D:\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe"
+CMAKE_COMMAND = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe"
 
 # The command to remove a file.
-RM = "D:\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E remove -f
+RM = "C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -58,7 +58,7 @@ CMAKE_BINARY_DIR = C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session6a\cm
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	"D:\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
+	"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -69,7 +69,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	"D:\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -110,19 +110,6 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named session6a_1
-
-# Build rule for target.
-session6a_1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles\Makefile2 session6a_1
-.PHONY : session6a_1
-
-# fast build rule for target.
-session6a_1/fast:
-	$(MAKE) -f CMakeFiles\session6a_1.dir\build.make CMakeFiles/session6a_1.dir/build
-.PHONY : session6a_1/fast
-
-#=============================================================================
 # Target rules for targets named session6a
 
 # Build rule for target.
@@ -160,33 +147,6 @@ session6a_3: cmake_check_build_system
 session6a_3/fast:
 	$(MAKE) -f CMakeFiles\session6a_3.dir\build.make CMakeFiles/session6a_3.dir/build
 .PHONY : session6a_3/fast
-
-ejercicio1.obj: ejercicio1.cpp.obj
-
-.PHONY : ejercicio1.obj
-
-# target to build an object file
-ejercicio1.cpp.obj:
-	$(MAKE) -f CMakeFiles\session6a_1.dir\build.make CMakeFiles/session6a_1.dir/ejercicio1.cpp.obj
-.PHONY : ejercicio1.cpp.obj
-
-ejercicio1.i: ejercicio1.cpp.i
-
-.PHONY : ejercicio1.i
-
-# target to preprocess a source file
-ejercicio1.cpp.i:
-	$(MAKE) -f CMakeFiles\session6a_1.dir\build.make CMakeFiles/session6a_1.dir/ejercicio1.cpp.i
-.PHONY : ejercicio1.cpp.i
-
-ejercicio1.s: ejercicio1.cpp.s
-
-.PHONY : ejercicio1.s
-
-# target to generate assembly for a file
-ejercicio1.cpp.s:
-	$(MAKE) -f CMakeFiles\session6a_1.dir\build.make CMakeFiles/session6a_1.dir/ejercicio1.cpp.s
-.PHONY : ejercicio1.cpp.s
 
 ejercicio2.obj: ejercicio2.cpp.obj
 
@@ -275,15 +235,11 @@ help:
 	@echo ... all (the default if no target is provided)
 	@echo ... clean
 	@echo ... depend
-	@echo ... session6a_1
 	@echo ... session6a
 	@echo ... session6a_2
 	@echo ... edit_cache
 	@echo ... session6a_3
 	@echo ... rebuild_cache
-	@echo ... ejercicio1.obj
-	@echo ... ejercicio1.i
-	@echo ... ejercicio1.s
 	@echo ... ejercicio2.obj
 	@echo ... ejercicio2.i
 	@echo ... ejercicio2.s
