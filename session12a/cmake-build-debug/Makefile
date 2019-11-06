@@ -122,6 +122,87 @@ session12a/fast:
 	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/build
 .PHONY : session12a/fast
 
+Bicicleta.obj: Bicicleta.cpp.obj
+
+.PHONY : Bicicleta.obj
+
+# target to build an object file
+Bicicleta.cpp.obj:
+	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/Bicicleta.cpp.obj
+.PHONY : Bicicleta.cpp.obj
+
+Bicicleta.i: Bicicleta.cpp.i
+
+.PHONY : Bicicleta.i
+
+# target to preprocess a source file
+Bicicleta.cpp.i:
+	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/Bicicleta.cpp.i
+.PHONY : Bicicleta.cpp.i
+
+Bicicleta.s: Bicicleta.cpp.s
+
+.PHONY : Bicicleta.s
+
+# target to generate assembly for a file
+Bicicleta.cpp.s:
+	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/Bicicleta.cpp.s
+.PHONY : Bicicleta.cpp.s
+
+Bote.obj: Bote.cpp.obj
+
+.PHONY : Bote.obj
+
+# target to build an object file
+Bote.cpp.obj:
+	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/Bote.cpp.obj
+.PHONY : Bote.cpp.obj
+
+Bote.i: Bote.cpp.i
+
+.PHONY : Bote.i
+
+# target to preprocess a source file
+Bote.cpp.i:
+	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/Bote.cpp.i
+.PHONY : Bote.cpp.i
+
+Bote.s: Bote.cpp.s
+
+.PHONY : Bote.s
+
+# target to generate assembly for a file
+Bote.cpp.s:
+	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/Bote.cpp.s
+.PHONY : Bote.cpp.s
+
+Vehiculo.obj: Vehiculo.cpp.obj
+
+.PHONY : Vehiculo.obj
+
+# target to build an object file
+Vehiculo.cpp.obj:
+	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/Vehiculo.cpp.obj
+.PHONY : Vehiculo.cpp.obj
+
+Vehiculo.i: Vehiculo.cpp.i
+
+.PHONY : Vehiculo.i
+
+# target to preprocess a source file
+Vehiculo.cpp.i:
+	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/Vehiculo.cpp.i
+.PHONY : Vehiculo.cpp.i
+
+Vehiculo.s: Vehiculo.cpp.s
+
+.PHONY : Vehiculo.s
+
+# target to generate assembly for a file
+Vehiculo.cpp.s:
+	$(MAKE) -f CMakeFiles\session12a.dir\build.make CMakeFiles/session12a.dir/Vehiculo.cpp.s
+.PHONY : Vehiculo.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +239,15 @@ help:
 	@echo ... session12a
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... Bicicleta.obj
+	@echo ... Bicicleta.i
+	@echo ... Bicicleta.s
+	@echo ... Bote.obj
+	@echo ... Bote.i
+	@echo ... Bote.s
+	@echo ... Vehiculo.obj
+	@echo ... Vehiculo.i
+	@echo ... Vehiculo.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

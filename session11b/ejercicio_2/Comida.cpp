@@ -1,4 +1,5 @@
 #include "Comida.h"
+#include "Tipos.h"
 Comida::Comida(TipoString pNombre, TipoEntero pCantidad) {
     m_Nombre = pNombre;
     m_Cantidad = pCantidad;

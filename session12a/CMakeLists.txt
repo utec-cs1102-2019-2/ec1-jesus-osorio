@@ -3,4 +3,4 @@ project(session12a)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(session12a main.cpp)
+add_executable(session12a main.cpp Vehiculo.cpp Vehiculo.h Bicicleta.cpp Bicicleta.h Bote.cpp Bote.h)

@@ -1,4 +1,7 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/session12a.dir/Bicicleta.cpp.obj"
+  "CMakeFiles/session12a.dir/Bote.cpp.obj"
+  "CMakeFiles/session12a.dir/Vehiculo.cpp.obj"
   "CMakeFiles/session12a.dir/main.cpp.obj"
   "libsession12a.dll.a"
   "session12a.exe"

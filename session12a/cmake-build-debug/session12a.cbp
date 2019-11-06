@@ -80,6 +80,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session12a/Bicicleta.cpp">
+			<Option target="session12a"/>
+		</Unit>
+		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session12a/Bicicleta.h">
+			<Option target="session12a"/>
+		</Unit>
+		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session12a/Bote.cpp">
+			<Option target="session12a"/>
+		</Unit>
+		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session12a/Bote.h">
+			<Option target="session12a"/>
+		</Unit>
+		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session12a/Vehiculo.cpp">
+			<Option target="session12a"/>
+		</Unit>
+		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session12a/Vehiculo.h">
+			<Option target="session12a"/>
+		</Unit>
 		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session12a/main.cpp">
 			<Option target="session12a"/>
 		</Unit>

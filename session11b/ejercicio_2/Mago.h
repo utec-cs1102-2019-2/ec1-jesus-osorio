@@ -1,10 +1,10 @@
 #ifndef EJERCICIO_2_MAGO_H
 #define EJERCICIO_2_MAGO_H
 
+#include "tipos.h"
 #include "Comida.h"
 #include "Estado_Animo.h"
-class Mago:
-        public Gandalf {
+class Mago{
 private:
     TipoEntero m_puntos;
 

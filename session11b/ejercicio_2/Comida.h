@@ -1,6 +1,6 @@
 #ifndef EJERCICIO_2_COMIDA_H
 #define EJERCICIO_2_COMIDA_H
-
+#include "Tipos.h"
 #include <iostream>
 using namespace std;
 class Comida {

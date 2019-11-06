@@ -69,19 +69,64 @@ CMakeFiles/session12a.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session12a.dir/main.cpp.s"
 	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\main.cpp -o CMakeFiles\session12a.dir\main.cpp.s
 
+CMakeFiles/session12a.dir/Vehiculo.cpp.obj: CMakeFiles/session12a.dir/flags.make
+CMakeFiles/session12a.dir/Vehiculo.cpp.obj: ../Vehiculo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/session12a.dir/Vehiculo.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session12a.dir\Vehiculo.cpp.obj -c C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\Vehiculo.cpp
+
+CMakeFiles/session12a.dir/Vehiculo.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session12a.dir/Vehiculo.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\Vehiculo.cpp > CMakeFiles\session12a.dir\Vehiculo.cpp.i
+
+CMakeFiles/session12a.dir/Vehiculo.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session12a.dir/Vehiculo.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\Vehiculo.cpp -o CMakeFiles\session12a.dir\Vehiculo.cpp.s
+
+CMakeFiles/session12a.dir/Bicicleta.cpp.obj: CMakeFiles/session12a.dir/flags.make
+CMakeFiles/session12a.dir/Bicicleta.cpp.obj: ../Bicicleta.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/session12a.dir/Bicicleta.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session12a.dir\Bicicleta.cpp.obj -c C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\Bicicleta.cpp
+
+CMakeFiles/session12a.dir/Bicicleta.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session12a.dir/Bicicleta.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\Bicicleta.cpp > CMakeFiles\session12a.dir\Bicicleta.cpp.i
+
+CMakeFiles/session12a.dir/Bicicleta.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session12a.dir/Bicicleta.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\Bicicleta.cpp -o CMakeFiles\session12a.dir\Bicicleta.cpp.s
+
+CMakeFiles/session12a.dir/Bote.cpp.obj: CMakeFiles/session12a.dir/flags.make
+CMakeFiles/session12a.dir/Bote.cpp.obj: ../Bote.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/session12a.dir/Bote.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\session12a.dir\Bote.cpp.obj -c C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\Bote.cpp
+
+CMakeFiles/session12a.dir/Bote.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/session12a.dir/Bote.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\Bote.cpp > CMakeFiles\session12a.dir\Bote.cpp.i
+
+CMakeFiles/session12a.dir/Bote.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/session12a.dir/Bote.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\Bote.cpp -o CMakeFiles\session12a.dir\Bote.cpp.s
+
 # Object files for target session12a
 session12a_OBJECTS = \
-"CMakeFiles/session12a.dir/main.cpp.obj"
+"CMakeFiles/session12a.dir/main.cpp.obj" \
+"CMakeFiles/session12a.dir/Vehiculo.cpp.obj" \
+"CMakeFiles/session12a.dir/Bicicleta.cpp.obj" \
+"CMakeFiles/session12a.dir/Bote.cpp.obj"
 
 # External object files for target session12a
 session12a_EXTERNAL_OBJECTS =
 
 session12a.exe: CMakeFiles/session12a.dir/main.cpp.obj
+session12a.exe: CMakeFiles/session12a.dir/Vehiculo.cpp.obj
+session12a.exe: CMakeFiles/session12a.dir/Bicicleta.cpp.obj
+session12a.exe: CMakeFiles/session12a.dir/Bote.cpp.obj
 session12a.exe: CMakeFiles/session12a.dir/build.make
 session12a.exe: CMakeFiles/session12a.dir/linklibs.rsp
 session12a.exe: CMakeFiles/session12a.dir/objects1.rsp
 session12a.exe: CMakeFiles/session12a.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable session12a.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Jesus\Documents\GitHub\ec1-jesus-osorio\session12a\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable session12a.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\session12a.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
