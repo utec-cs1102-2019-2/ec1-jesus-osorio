@@ -1,9 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/session4a.dir/main.cpp.obj"
-  "session4a.pdb"
+  "libsession4a.dll.a"
   "session4a.exe"
   "session4a.exe.manifest"
-  "libsession4a.dll.a"
+  "session4a.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

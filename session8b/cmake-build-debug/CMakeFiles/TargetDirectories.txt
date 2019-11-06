@@ -1,0 +1,4 @@
+C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session8b/cmake-build-debug/CMakeFiles/session8a.dir
+C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session8b/cmake-build-debug/CMakeFiles/session8a_e2.dir
+C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session8b/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session8b/cmake-build-debug/CMakeFiles/rebuild_cache.dir

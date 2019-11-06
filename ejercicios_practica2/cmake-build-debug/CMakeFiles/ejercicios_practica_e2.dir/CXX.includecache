@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/ejercicios_practica2/ejercicio_2.cpp
+iostream
+-
+stdlib.h
+-
+

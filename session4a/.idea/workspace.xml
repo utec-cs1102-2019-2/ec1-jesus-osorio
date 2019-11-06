@@ -12,152 +12,82 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e62eeb7-0c6f-47dc-9e4d-cf818bfacdef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../session5b/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/4B.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/4B.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session 4b/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicios_practica2/ejercicio_2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session4b/.idea/4B.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session7a/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session7a/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session7a/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session7a/.idea/session7a.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session7a/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session7b/.idea/session7b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session7b/ejercicio2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session7b/ejercicio3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session8b/ejercicio2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session9a/Triangulo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session9a/cilindro.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session9a/cilindro.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session9b/Alumno.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session9b/Alumno.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session9b/Profesor.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../session9b/Profesor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/.idea/4B.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/4B.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/4B.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/4B.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../session 4b/main.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeRCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.exe" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/cmake_clean.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/session4a.dir/objects.a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/session4a.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/session4a.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/ejercicio1.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e1.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/ejercicio2.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e2.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e3.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e3.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e3.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e3.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/CMakeFiles/session5b_e3.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/clases.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/clases.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/ejercicio1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/ejercicio1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/ejercicio2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/ejercicio2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session5b/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session5b/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_1.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_1.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_1.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_1.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_2.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_2.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_3.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_3.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_3.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_3.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/CMakeFiles/session6a_3.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/cmake-build-debug/session6a.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/cmake-build-debug/session6a.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/ejercicio2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/ejercicio2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6a/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session6a/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b_e2.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b_e2.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b_e2.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b_e2.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b_e3.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b_e3.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b_e3.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/CMakeFiles/session6b_e3.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/ejercicio1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/ejercicio1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/ejercicio2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/ejercicio2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../session6b/ejercicio3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../session6b/ejercicio3.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,20 +102,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1RecHS9BNLCNafmdbRffNJ6wOIw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes />
-  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -223,6 +141,8 @@
       <workItem from="1568239814016" duration="556000" />
       <workItem from="1568298004053" duration="91000" />
       <workItem from="1570030918262" duration="69000" />
+      <workItem from="1570031464994" duration="403000" />
+      <workItem from="1571861801324" duration="558000" />
     </task>
     <servers />
   </component>
@@ -234,7 +154,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

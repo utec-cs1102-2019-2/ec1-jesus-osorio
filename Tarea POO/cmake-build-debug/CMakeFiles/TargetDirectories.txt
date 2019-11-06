@@ -1,0 +1,3 @@
+C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/Tarea POO/cmake-build-debug/CMakeFiles/Tarea_POO.dir
+C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/Tarea POO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/Tarea POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
