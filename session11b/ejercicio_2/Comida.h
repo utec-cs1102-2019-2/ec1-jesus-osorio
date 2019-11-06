@@ -3,18 +3,18 @@
 
 #include <iostream>
 using namespace std;
-
 class Comida {
-private:
-    string nombre;
-    int puntos;
+protected:
+    TipoString m_Nombre;
+    TipoEntero m_Cantidad;
 public:
-
-    Comida(string, int);
+    Comida(TipoString, TipoEntero);
     ~Comida();
-    int getpuntos();
-    string getnombre();
+    TipoEntero getCantidad();
+    TipoString getNombre();
 };
 
+
+#endif
 
 #endif //EJERCICIO_2_COMIDA_H

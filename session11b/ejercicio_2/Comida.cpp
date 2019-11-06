@@ -1,16 +1,13 @@
 #include "Comida.h"
-Comida::Comida(string, int) {
-    nombre = pnombre;
-    puntos = ppuntos;
+Comida::Comida(TipoString pNombre, TipoEntero pCantidad) {
+    m_Nombre = pNombre;
+    m_Cantidad = pCantidad;
 }
-
-
 Comida::~Comida() {
 
 }
-int Comida::getpuntos() {
-    return puntos;
+TipoEntero Comida::getCantidad() {
+    return m_Cantidad;
 }
-string Comida::getnombre() {
-    return  nombre;
-}
+TipoString Comida::getNombre() {
+    return  m_Nombre;

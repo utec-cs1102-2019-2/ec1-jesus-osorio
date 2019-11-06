@@ -98,7 +98,13 @@
 		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session11b/ejercicio_2/Mago.h">
 			<Option target="ejercicio_2"/>
 		</Unit>
+		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session11b/ejercicio_2/cmake-build-debug/U funciones.h">
+			<Option target="ejercicio_2"/>
+		</Unit>
 		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session11b/ejercicio_2/main.cpp">
+			<Option target="ejercicio_2"/>
+		</Unit>
+		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session11b/ejercicio_2/tipos.h">
 			<Option target="ejercicio_2"/>
 		</Unit>
 		<Unit filename="C:/Users/Jesus/Documents/GitHub/ec1-jesus-osorio/session11b/ejercicio_2/CMakeLists.txt">

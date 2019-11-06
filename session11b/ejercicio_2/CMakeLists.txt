@@ -3,4 +3,4 @@ project(ejercicio_2)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(ejercicio_2 main.cpp Comida.cpp Comida.h Estado_Animo.cpp Estado_Animo.h Mago.cpp Mago.h)
+add_executable(ejercicio_2 main.cpp Comida.cpp Comida.h Estado_Animo.cpp Estado_Animo.h Mago.cpp Mago.h tipos.h "cmake-build-debug/Ufunciones.h")
